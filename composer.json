@@ -1,0 +1,22 @@
+{
+  "name": "yokittua/kata",
+  "description": "The PHP minimal classes of value object for astronomical calculations.",
+  "type": "library",
+  "authors": [
+    {
+      "name": "yokittua.com"
+    }
+  ],
+  "homepage": "https://www.yokittua.com",
+  "license": "GPLv3",
+  "readme": "README.md",
+  "require": {
+    "php": ">=8.0",
+    "league/geotools": "^0.8.3"
+  },
+  "autoload": {
+    "psr-4": {
+      "Kata\\": "src/Kata/"
+    }
+  }
+}
