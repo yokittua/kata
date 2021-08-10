@@ -69,13 +69,13 @@ object(Kata\DateTime\J2K)#2 (3) {
 
 ## Used by
 
-* [https://koyocalc.jp](https://koyocalc.jp) - Website dedicated to for calculating sunrise time in Japan.
+* [https://koyocalc.jp](https://koyocalc.jp) - Website dedicated to calculating sunrise time in Japan.
 
 ## References
 
-* Nicolò Pignatelli, "ValueObjects", [//github.com/shouze/valueobjects](https://github.com/shouze/valueobjects).
+* Nicolò Pignatelli, "ValueObjects", [https://github.com/shouze/valueobjects](https://github.com/shouze/valueobjects).
 * National Astronomical Observatory Japan, "Chronological Scientific Tables", Maruzen, 2014.
-* NASA, "Polynomial Expressions for Delta T", [//eclipse.gsfc.nasa.gov/SEcat5/deltatpoly.html](https://eclipse.gsfc.nasa.gov/SEcat5/deltatpoly.html).
+* NASA, "Polynomial Expressions for Delta T", [https://eclipse.gsfc.nasa.gov/SEcat5/deltatpoly.html](https://eclipse.gsfc.nasa.gov/SEcat5/deltatpoly.html).
 * K. Nagasawa, "Computations of Sunrise and Sunset", Chijin-Shokann, 1999.
 
 ## License
