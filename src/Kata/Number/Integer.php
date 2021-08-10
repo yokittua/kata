@@ -4,6 +4,7 @@ declare(strict_types=1);
 namespace Kata\Number;
 
 use Kata\KataInterface;
+use Kata\Exception\InvalidNativeArgumentException;
 
 /**
  * class Integer
@@ -11,7 +12,6 @@ use Kata\KataInterface;
 class Integer implements KataInterface {
     use \Kata\GetNameTrait;
     use \Kata\IsEqualTrait;
-    use Kata\Exception\InvalidNativeArgumentException;
 
     /**
      * @var integaer
