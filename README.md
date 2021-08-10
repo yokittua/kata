@@ -67,6 +67,10 @@ object(Kata\DateTime\J2K)#2 (3) {
 }
 ```
 
+## Used by
+
+* [https://koyocalc.jp](https://koyocalc.jp) - Website dedicated to for calculating sunrise time in Japan.
+
 ## References
 
 * Nicolò Pignatelli, "ValueObjects", [//github.com/shouze/valueobjects](https://github.com/shouze/valueobjects).
